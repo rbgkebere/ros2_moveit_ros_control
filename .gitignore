@@ -1,0 +1,22 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Nested git repos
+**/.git
